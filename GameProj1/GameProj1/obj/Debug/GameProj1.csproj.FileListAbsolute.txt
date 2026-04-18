@@ -1,0 +1,15 @@
+C:\Users\B204\source\repos\GameProj1\GameProj1\bin\Debug\GameProj1.exe.config
+C:\Users\B204\source\repos\GameProj1\GameProj1\bin\Debug\GameProj1.exe
+C:\Users\B204\source\repos\GameProj1\GameProj1\bin\Debug\GameProj1.pdb
+C:\Users\B204\source\repos\GameProj1\GameProj1\obj\Debug\GameProj1.csproj.AssemblyReference.cache
+C:\Users\B204\source\repos\GameProj1\GameProj1\obj\Debug\GameProj1.csproj.CoreCompileInputs.cache
+C:\Users\B204\source\repos\GameProj1\GameProj1\obj\Debug\GameProj1.exe
+C:\Users\B204\source\repos\GameProj1\GameProj1\obj\Debug\GameProj1.pdb
+C:\Users\B204\source\repos\GameProj1\GameProj1\obj\Debug\GameProj1.exe.config
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\bin\Debug\GameProj1.exe.config
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\bin\Debug\GameProj1.exe
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\bin\Debug\GameProj1.pdb
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\obj\Debug\GameProj1.csproj.AssemblyReference.cache
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\obj\Debug\GameProj1.csproj.CoreCompileInputs.cache
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\obj\Debug\GameProj1.exe
+C:\Users\BEDia\OneDrive\Desktop\CS-077\GameProj1\GameProj1\obj\Debug\GameProj1.pdb
