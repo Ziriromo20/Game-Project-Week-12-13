@@ -150,8 +150,11 @@ namespace GameProj1
                 Scarlett = Console.ReadLine();
                 Console.WriteLine("Yeah we spent some time together at the booth, you bought me quite a few drinks and we had a good time but if you are going to ask what I think you are going to ask, no I'm, not interested in going out with anyone right now.");
                 Ah = Console.ReadLine();
-                Console.WriteLine("Ah you remember Scarlett was the one that wasn't available, and the girl you are looking for was available and wanting to mingle. You say goodbye to Scarlett and end the call to continue your search for your potential soulmate");
 
+               if (Ah == "2")
+                {
+                    Console.WriteLine("You say goodbye to Scarlett and end the call to continue your search for your potential soulmate");
+                }
         }
             static void HazelPath()
             {
@@ -165,8 +168,11 @@ namespace GameProj1
                 SugeKnight = Console.ReadLine();
                 Console.WriteLine("Oh hello SugeKnight! It's nice to hear from you again, you were such a gentleman last night, I had a great time with you! I remeber you invited me to out to eat at Taco Bells sorry I didn't take you up on that offer but I don't really eat tacos.");
                 Gasp = Console.ReadLine();
-                Console.WriteLine("You gasp in shock, first off how could anyone hate on tacos and second the girl that you were looking for did end up taking your ofer up but remember that in the process of leaving you lost her in the crowd of people at the club. You say your goodbyes to Hazel and hang up to call the last girl.");
                 
+                if (Gasp == "3")
+                {
+                Console.WriteLine("You say goodbye to Hazel and contiue your search");
+                }
         }
             static void CocoPath()
             {
